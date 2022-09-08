@@ -19,12 +19,13 @@ INSTRUÇOES DE USO:
 Pré-requisito:
 Na máquina que será executada o script 'run.sh' é necessário instalar o terraform e o ansible:
 
-Terraform
+Terraform - Procedimento de Instalação
 * https://learn.hashicorp.com/tutorials/terraform/install-cli
-Ansible
+
+Ansible - Procedimento de Instalação
 * https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html
 
-Configurando o ambiente:
+CONFIGURANDO O AMBIENTE:
 
 * Clonar o repositório: 
   - https://github.com/nunes-raphael/infraestrutura-devops.git;
